@@ -1,0 +1,84 @@
+#image{
+    background-image: url(../images/gymbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 750px;
+}
+
+#headline{
+    margin-top: -7px;
+    margin-left: 90px;
+    color: white;
+}
+
+#logo{
+    margin-left: 2cm;
+    margin-top: 1cm;
+}
+.butt{
+   color: white;
+   text-decoration: none;
+   margin-right: 30px;
+   margin-top: -7px;
+}
+.list{
+    list-style: none;
+    float: right;
+    margin-top: -10px;
+    
+}
+#list11{
+    text-decoration: underline;
+}
+#border{
+    border-radius: 5%;
+    border: white;
+    border-style: solid;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 20cm;
+    
+}
+
+#border1{
+    border-radius: 5%;
+    border: white;
+    border-style: solid;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    margin-right: 30px;
+}
+#mainbox{
+    border-radius: 5%;
+    border: white;
+    border-style: solid;
+    width: 400px;
+    height: 500px;
+    margin-left: 3cm;
+    margin-top: 1cm;
+    padding-left: 50px;
+    
+#box{
+    margin-top: 5%;
+    width: px;
+    margin-left: 2cm;
+    
+    
+}
+h3{
+    margin-top: 75px;
+    margin-right: 2cm;
+}
+.input{
+    width: 300px;
+}
+#submit{
+    text-align: center;
+}
+
+#nav{
+    padding-top: 500px;
+}

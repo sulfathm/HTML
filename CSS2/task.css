@@ -1,0 +1,74 @@
+.Two{
+    width: 500px;
+    height: 300px;
+    border: 1px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    margin-right: 20px;
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+
+}
+#div1{
+    float: right;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    height: 350px;
+    width: 200px;
+    background-color: burlywood;
+    border-style: solid;
+    border-color: red;
+    padding-left: 5%;
+}
+#para{
+    color: yellow;
+    font-weight: bold;
+}
+.para1{
+    color: yellow;
+    
+}
+#div4{
+    background-color: red;
+    color: black;
+    float: right;
+    width: 33%;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    height: 10.5cm;
+}
+#div2{
+    background-color: yellow;
+    color: black;
+    float: right;
+    width: 33%;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    height: 10.5cm;
+}
+#div3{
+    background-color: blueviolet;
+    color: black;
+    float: right;
+    width: 33%;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    height: 10.5cm;
+}
+#footer{
+    color: white;
+    background-color: black;
+    margin-top: 10.5cm;
+    text-align: center;
+}
+#head{
+    background-image: url(./static/coffee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}

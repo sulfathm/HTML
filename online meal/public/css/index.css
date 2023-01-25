@@ -1,0 +1,165 @@
+#background{
+    background-image: url(../image/onlineservicepik.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 850px;
+}
+#logo{
+    margin-left: 100px;
+    margin-top: 18px;
+}
+nav{
+    width: 1200px;
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    background-color: navy;
+}
+ul{
+    margin-top: -85px;
+    float: right;
+    padding-bottom: 60%;
+    margin-left: -10;
+}
+.list{
+    list-style: none;
+    display: inline;
+    margin-bottom: 500px;
+}
+.link{
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color: brown;
+    text-decoration: none;
+}
+#content{
+    text-align: center;
+    padding-top: 300px;
+    font-style: unset;
+}
+#submit{
+    color: white;
+    border-color: white;
+    background-color: red;
+    border-radius: 8px;
+}
+#maindiv{
+    text-align: center;
+    padding-top: 200px;
+}
+#div1{
+    
+    width: 30%;
+    border-radius: 8%;
+    border-color: black;
+    text-align: center;
+    float: right;
+    border-style: solid;
+    margin-right: 2%;
+    height: 300px;
+    padding-top: 1cm;
+
+}
+#div2{
+    
+    width: 30%;
+    border-radius: 8%;
+    border-color: black;
+    text-align: center;
+    float: right;
+    border-style: solid;
+    margin-right: 2%;
+    height: 300px;
+    padding-top: 1cm;
+}
+#div3{
+    
+    width: 30%;
+    border-radius: 8%;
+    border-color: black;
+    text-align: center;
+    float: right;
+    border-style: solid;
+    margin-right: 2%;
+    height: 300px;
+    padding-top: 1cm;
+    
+}
+#clients{
+    text-align: center;
+    font-style: italic;
+}
+#images{
+    
+    text-align: center;
+    padding-right: 170px;
+    
+
+}
+#ourclients{
+    margin-top: 500px;
+    border-style: solid;
+    border-color: grey;
+    height: 250px;
+    width: 800px;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-left: 140px;
+    background-color: grey;
+}
+#img1{
+    float: right;
+    width: 15%;
+    margin-right: 5%;
+}
+#img2{
+    float: right;
+    width: 15%;
+    margin-right: 5%;
+}
+#img3{
+    float: right;
+    width: 15%;
+    margin-right: 5%;
+}
+#img4{
+    float: right;
+    width: 15%;
+    margin-right: 5%;
+}
+.head{
+    text-align: left;
+}
+#contactus{
+    padding-top: 150px;
+    margin-left: 500px;
+    
+    
+   
+}
+form{
+    border-style: solid;
+    border-color: grey;
+    height: 400px;
+    width: 400px;
+    padding-left: 250px;
+    margin-left: -200px;
+    padding-top: 50px;
+    background-color: gray;
+}
+#headline{
+    font-size: x-large;
+    text-align: center;
+}
+footer{
+    height: 25px;
+    width: 660px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 1cm;
+    margin-left: -6.8cm;
+}
